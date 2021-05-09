@@ -19,4 +19,9 @@ fun main() {
 //    println("t: $t")
 
 //    println("${if(true) "z" else "y"}")
+
+//    val aa = """asd
+//        |asdf
+//    """.trimMargin()
+//    println(aa)
 }
